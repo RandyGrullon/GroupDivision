@@ -1,0 +1,20 @@
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.exe
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.deps.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.runtimeconfig.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.runtimeconfig.dev.json
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.dll
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\bin\Debug\netcoreapp3.1\Repartidor.pdb
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.csprojAssemblyReference.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.AssemblyInfoInputs.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.AssemblyInfo.cs
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.csproj.CoreCompileInputs.cache
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.dll
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.pdb
+C:\Users\elpri\Desktop\Trabajos INTEC\8vo trimestre\Tendencias en el desarrollo\Semana 2\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.genruntimeconfig.cache
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.csproj.AssemblyReference.cache
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.AssemblyInfoInputs.cache
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.AssemblyInfo.cs
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.csproj.CoreCompileInputs.cache
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.dll
+C:\Users\randy\Desktop\Todo\code\GroupDivisor\Repartidor\obj\Debug\netcoreapp3.1\Repartidor.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtXvCN8t2/wu+IxbBgJJx3HZcRE8E4Mzs8yGbCPExvWCREpwjOnRdY1vIdbFNFw5sF8pmBnTtNjJuH6Bf2wxIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\randy\\Desktop\\Todo\\code\\GroupDivisor\\Repartidor\\Repartidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
